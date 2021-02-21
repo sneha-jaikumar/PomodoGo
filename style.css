@@ -155,8 +155,8 @@ a:link{
 .about-us-img-wrapper img{
     vertical-align: middle;
     position: absolute;
-    right: 18%;
-    top: 102%;  
+    right: 26%;
+    top: 97%;  
 }
 
 .services{
@@ -222,15 +222,15 @@ a:link{
     font-weight: 570;
     line-height: 5rem;
     letter-spacing: 0.1rem;
-    top: 284%;
-    left: 3%;
+    top: 250%;
+    left: 8%;
 }
 
 .school-img-wrapper img{
     vertical-align: middle;
     position: absolute;
-    right: 62%;
-    top: 197%; 
+    right: 66%;
+    top: 184%; 
 }
 
 .school-01 h4{
@@ -241,15 +241,15 @@ a:link{
     font-weight: 550;
     line-height: 5rem;
     letter-spacing: 0.1rem;
-    top: 284%;
-    left: 42%;
+    top: 250%;
+    left: 43.5%;
 }
 
 .school-01-img-wrapper img{
     vertical-align: middle;
     position: absolute;
-    right: 28%;
-    top: 205%;  
+    right: 34%;
+    top: 191%;  
 }
 
 .school-02 h5{
@@ -260,14 +260,14 @@ a:link{
     font-weight: 550;
     line-height: 5rem;
     letter-spacing: 0.1rem;
-    top: 284%;
+    top: 250%;
     left: 75%;
 }
 
 .school-02-img-wrapper img{
     vertical-align: middle;
     position: absolute;
-    right: -5%;
-    top: 200%; 
+    right: 2%;
+    top: 187%; 
 }
 
